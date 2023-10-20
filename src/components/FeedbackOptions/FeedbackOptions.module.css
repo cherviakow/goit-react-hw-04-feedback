@@ -1,0 +1,22 @@
+.button_conteiner{
+    display: flex;
+    justify-content: center;
+    gap: 0px 10px;
+}
+
+.Feedback_button{
+    padding: 10px;
+    background-color: white;
+    border: 1px solid rgb(214, 214, 214);
+    border-radius: 3px;
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.3);
+    font-size: 15px;
+    color: black;
+    transition: all 500ms;
+}
+
+.Feedback_button:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(83, 83, 206);
+    border: 1px solid rgb(83, 83, 206);
+}

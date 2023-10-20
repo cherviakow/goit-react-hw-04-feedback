@@ -1,0 +1,22 @@
+.list_fidbeck{
+    display: flex;
+    justify-content: center;
+}
+
+.text{
+
+   font-size: 18px;
+   font-weight: bold;
+   display: inline;
+   
+
+}
+
+.item{
+    font-size: 18px;
+    list-style: none;
+    display: inline;
+    text-align: left;
+    margin-right: 10px;
+ 
+}
